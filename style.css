@@ -1,0 +1,34 @@
+#main_title {
+    text-align: center;
+    background-color: #102d8b;
+    color: #fff;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.box1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.container  {
+    margin-top: 50px;
+}
+
+h6 {
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
