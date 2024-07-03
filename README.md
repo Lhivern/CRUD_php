@@ -16,7 +16,7 @@ Este é um projeto de aplicação CRUD (Create, Read, Update, Delete) utilizando
 - **Bootstrap 5:** Framework CSS utilizado para a estilização da aplicação.
 
 ## Acesso
-- O projeto pode ser acessado em [CRUD PHP](cfds-phpcrud.000webhostapp.com/)
+- O projeto pode ser acessado em [CRUD PHP](https://cfds-phpcrud.000webhostapp.com/)
 
 ## Instalação
 
