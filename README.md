@@ -15,6 +15,9 @@ Este é um projeto de aplicação CRUD (Create, Read, Update, Delete) utilizando
 - **MySQL:** Sistema de gerenciamento de banco de dados.
 - **Bootstrap 5:** Framework CSS utilizado para a estilização da aplicação.
 
+## Acesso
+- O projeto pode ser acessado em [CRUD PHP](cfds-phpcrud.000webhostapp.com/)
+
 ## Instalação
 
 1. Clone o repositório para o seu ambiente local:
