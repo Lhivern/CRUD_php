@@ -37,7 +37,7 @@ Este é um projeto de aplicação CRUD (Create, Read, Update, Delete) utilizando
       `nome` varchar(60) NOT NULL,
       `sobrenome` varchar(100) NOT NULL,
       `idade` int NOT NULL
-    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+    );
   
     INSERT INTO `pessoas` (`id`, `nome`, `sobrenome`, `idade`) VALUES
     (1, 'Christian', 'Souza', 23),
